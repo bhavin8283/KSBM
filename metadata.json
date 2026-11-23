@@ -1,0 +1,6 @@
+{
+  "name": "Kwik Stop Business Manager",
+  "description": "Retail operations and store management shell for Kwik Stop — 92 Queens Rd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
